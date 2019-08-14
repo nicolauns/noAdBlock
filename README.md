@@ -6,7 +6,7 @@
 
 ![Image 1](https://github.com/jco666/noAdBlock/blob/master/readme_1.png) <br />
 
-## This script use a lib [FuckAdBlock](https://github.com/sitexw/FuckAdBlock)
+### This script use a lib [FuckAdBlock](https://github.com/sitexw/FuckAdBlock)
 
 ## CDN
 
