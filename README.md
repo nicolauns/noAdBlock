@@ -1,4 +1,4 @@
-# no-adblock
+# noAdBlock
 
 ### Element for block the use of site if adblock was activated.
 
@@ -11,7 +11,7 @@
 ## CDN
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/jco666/no-adblock@latest/no-adblock.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/jco666/noAdBlock@latest/noAdBlock.min.js"></script>
 ```
 
 ## License
